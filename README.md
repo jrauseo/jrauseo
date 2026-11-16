@@ -62,7 +62,7 @@ I follow a hardened-by-default standard on everything I ship:
 ### 📬 Reach me
 
 - **Company:** [Infonaligy Partners](https://infonaligy.com)
-- **LinkedIn:** <!-- TODO: add your LinkedIn URL -->
+- **LinkedIn:** [Jimmy Rauseo](https://www.linkedin.com/in/rauseoj89/)
 - **Also on GitHub:** [@rauseoj89](https://github.com/rauseoj89), where I publish public blueprints and write-ups.
 
 <sub>Opinions and projects here are my own.</sub>
